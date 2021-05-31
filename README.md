@@ -1,2 +1,2 @@
 # laravel
-Projects of laravel
+leaning laravel basics
