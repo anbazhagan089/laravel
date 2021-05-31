@@ -1,2 +1,2 @@
 # laravel
-leaning laravel basics
+learning laravel basics
